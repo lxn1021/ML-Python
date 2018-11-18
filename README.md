@@ -6,3 +6,5 @@
 - Week 1
 
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/intro.pdf)
+  
+  [Getting Started with Python]()
