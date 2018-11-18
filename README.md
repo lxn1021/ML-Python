@@ -1,1 +1,1 @@
-## ** Machine Learning Course on Coursera by University of Washington, Seattle **
+## **Machine Learning Course on Coursera by University of Washington, Seattle**
