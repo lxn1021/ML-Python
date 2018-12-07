@@ -12,4 +12,4 @@
   
 - Week 2
   
-  [Slides]()
+  [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/regression-intro-annotated.pdf)
