@@ -8,3 +8,8 @@
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/intro.pdf)
   
   [Getting Started with SFrame](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Getting%20Started%20with%20SFrame.ipynb)
+  
+  
+- Week 2
+  
+  [Slides]()
