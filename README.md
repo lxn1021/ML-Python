@@ -14,4 +14,4 @@
   
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/regression-intro-annotated.pdf)
   
-  [Predicting house prices]()
+  [Predicting house prices](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Predicting%20house%20prices.ipynb)
