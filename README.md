@@ -29,4 +29,4 @@
     
     [Analyzing product sentiment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Analyzing%20product%20sentiment.ipynb)
 
-    [Data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
+    [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
