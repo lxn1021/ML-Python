@@ -18,9 +18,9 @@
   
   [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week2_programming%20assignment.ipynb)
   
-  [data 1 --- people-example.csv](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/people-example.csv)
+  [Data 1 --- people-example.csv](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/people-example.csv)
   
-  [data 2 --- home_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/home_data.gl)
+  [Data 2 --- home_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/home_data.gl)
   
   
 - Week 3 --- Classification: Analyzing sentiment
@@ -28,3 +28,5 @@
     [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/classification-annotated.pdf)
     
     [Analyzing product sentiment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Analyzing%20product%20sentiment.ipynb)
+
+    [Data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
