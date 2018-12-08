@@ -10,7 +10,7 @@
   [Getting Started with SFrame](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Getting%20Started%20with%20SFrame.ipynb)
   
   
-- Week 2 --- Regression: Predicting house prices
+- Week 2 --- Regression: Predicting House Prices
   
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/regression-intro-annotated.pdf)
   
@@ -23,6 +23,6 @@
   [data 2 --- home_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/home_data.gl)
   
   
-  - Week 3 --- Classification: Analyzing sentiments
+- Week 3 --- Classification: Analyzing sentiment
   
     [Slides]()
