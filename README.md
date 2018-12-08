@@ -19,3 +19,5 @@
   [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week2_programming%20assignment.ipynb)
   
   [data 1 --- people-example.csv](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/people-example.csv)
+  
+  [data 2 --- home_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/home_data.gl)
