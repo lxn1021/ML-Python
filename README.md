@@ -25,4 +25,4 @@
   
 - Week 3 --- Classification: Analyzing sentiment
   
-    [Slides]()
+    [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/classification-annotated.pdf)
