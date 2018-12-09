@@ -38,7 +38,7 @@
 
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/clustering-intro-annotated.pdf)
   
-  [Document Retrieval]()
+  [Document Retrieval](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Document%20Retrieval.ipynb)
   
   [Data - people_wiki.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/people_wiki.gl)
   
