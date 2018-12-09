@@ -36,7 +36,7 @@
 
 - Week 4 --- Clustering and Similarity: Retrieving Documents
 
-  [Slides]()
+  [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/clustering-intro-annotated.pdf)
   
   [Data - people_wiki.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/people_wiki.gl)
   
