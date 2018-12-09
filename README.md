@@ -25,15 +25,21 @@
   
 - Week 3 --- Classification: Analyzing sentiment
   
-    [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/classification-annotated.pdf)
+  [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/classification-annotated.pdf)
     
-    [Analyzing product sentiment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Analyzing%20product%20sentiment.ipynb)
+  [Analyzing product sentiment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Analyzing%20product%20sentiment.ipynb)
     
-    [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%203_programming%20assignment.ipynb)
+  [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%203_programming%20assignment.ipynb)
 
-    [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
+  [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
     
 
 - Week 4 --- Clustering and Similarity: Retrieving Documents
+
+  [Slides]()
+  
+  [Data - people_wiki.gl]()
+  
+  
 
   
