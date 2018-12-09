@@ -38,7 +38,7 @@
 
   [Slides]()
   
-  [Data - people_wiki.gl]()
+  [Data - people_wiki.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/people_wiki.gl)
   
   
 
