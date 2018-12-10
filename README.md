@@ -58,7 +58,7 @@
 
 - Week 6 --- Deep Learning: Searching for Images
 
-  [Slides]()
+  [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/deeplearning-annotated.pdf)
   
 
   
