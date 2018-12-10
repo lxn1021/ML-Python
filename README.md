@@ -43,6 +43,13 @@
   [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%204_programming%20assignment.ipynb)
   
   [Data - people_wiki.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/people_wiki.gl)
+
+
+- Week 5 --- Recommender Systems
+
+  [Slides]()
+  
+
   
   
 
