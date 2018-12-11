@@ -64,6 +64,8 @@
   
   [Deep Features for Image Retrieval](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Deep%20Features%20for%20Image%20Retrieval.ipynb)
   
+  [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%206_programming%20assignment.ipynb)
+  
   [Data 1 --- image_train_data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/image_train_data)
   
   [Data 2 --- image_test_data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/image_test_data)
