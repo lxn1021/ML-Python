@@ -60,5 +60,7 @@
 
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/deeplearning-annotated.pdf)
   
+  [Image Classification with Deep Features](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Image%20Classification%20with%20Deep%20Features.ipynb)
+  
 
   
