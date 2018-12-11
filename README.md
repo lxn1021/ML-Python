@@ -62,7 +62,7 @@
   
   [Image Classification with Deep Features](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Image%20Classification%20with%20Deep%20Features.ipynb)
   
-  [Deep Features for Image Retrieval]()
+  [Deep Features for Image Retrieval](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Deep%20Features%20for%20Image%20Retrieval.ipynb)
   
   [Data 1 --- image_train_data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/image_train_data)
   
