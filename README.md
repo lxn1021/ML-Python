@@ -78,3 +78,5 @@
 
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week1_simpleregression-annotated.pdf)
   
+  [Influence of high leverage points]()
+  
