@@ -72,11 +72,9 @@
   
   
   
-  
-  
 ## Module 2: Regression
 
 - Week 1 --- Simple Regression
 
-  [Slides]
+  [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week1_simpleregression-annotated.pdf)
   
