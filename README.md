@@ -80,3 +80,5 @@
   
   [Influence of high leverage points](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Influence%20of%20high%20leverage%20points.ipynb)
   
+  [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%201_Simple%20Linear%20Regression%20.ipynb)
+  
