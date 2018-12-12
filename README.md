@@ -87,5 +87,5 @@
  
  - Week 2 --- Multiple Regression
  
-  [Slides]()
+    [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week2_multipleregression-annotated.pdf)
   
