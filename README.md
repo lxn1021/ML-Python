@@ -69,5 +69,12 @@
   [Data 1 --- image_train_data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/image_train_data)
   
   [Data 2 --- image_test_data](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/image_test_data)
+  
+  
+  
+## Module 2: Regression
 
+- Week 1 --- Simple Regression
+
+  [Slides]
   
