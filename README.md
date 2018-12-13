@@ -94,4 +94,9 @@
     [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%202_multiple%20linear%20regression_2.ipynb)
     
     [Data --- kc_house_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/kc_house_data.gl)
+
+
+- Week 3 --- Assessing Performance
+  
+   [Slides]()
   
