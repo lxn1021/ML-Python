@@ -109,3 +109,5 @@
 
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week4_ridgeregression-annotated.pdf)
   
+  [Overfitting demo](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Overfitting%20demo.ipynb)
+  
