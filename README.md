@@ -113,5 +113,7 @@
   
   [Programming Assignment 1](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%204_ridge%20regression_1.ipynb)
   
+  [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%204_ridge%20regression_2.ipynb)
+  
   [Data --- kc_house_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/kc_house_data.gl)
   
