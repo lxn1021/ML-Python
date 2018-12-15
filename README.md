@@ -120,4 +120,4 @@
 
 - Week 5 --- Feature Selection and Lasso
   
-  [Slides]()
+  [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week5_lassoregression-annotated.pdf)
