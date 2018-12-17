@@ -122,6 +122,6 @@
   
   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week5_lassoregression-annotated.pdf)
   
-  [Programming Assignment 1]()
+  [Programming Assignment 1](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%205_feature%20selection%20and%20lasso.ipynb)
   
   [Data --- kc_house_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/kc_house_data.gl)
