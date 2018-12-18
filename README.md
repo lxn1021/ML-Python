@@ -127,3 +127,8 @@
   [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%205_LASSO.ipynb)
   
   [Data --- kc_house_data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/kc_house_data.gl)
+  
+  
+  - Week 6 --- Nearest Neighbor and Kernel Regression
+  
+    [Slides]()
