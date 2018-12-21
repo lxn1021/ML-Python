@@ -132,3 +132,5 @@
  - Week 6 --- Nearest Neighbor and Kernel Regression
   
     [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/week6_NNkernelregression-annotated.pdf)
+    
+    [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%206_K-NN%20regression.ipynb)
