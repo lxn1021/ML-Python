@@ -148,4 +148,7 @@
   [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%201_predicting%20sentiment%20from%20product%20reviews.ipynb)
 
   [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
+  
+  
+  - Week 2 --- Linear Classifiers and Logistic Regression
 
