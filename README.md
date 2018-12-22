@@ -150,5 +150,5 @@
   [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
   
   
-  - Week 2 --- Linear Classifiers and Logistic Regression
+ - Week 2 --- Linear Classifiers and Logistic Regression
 
