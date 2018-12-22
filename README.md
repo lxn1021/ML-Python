@@ -152,3 +152,4 @@
   
  - Week 2 --- Linear Classifiers and Logistic Regression
 
+   [Slides](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/logistic-regression-learning-annotated.pdf)
