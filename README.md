@@ -136,3 +136,8 @@
     [Programming Assignment](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%206_K-NN%20regression.ipynb)
     
     [Data --- kc_house_data_small.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/kc_house_data_small.gl)
+
+
+
+## Module 3: Classification
+
