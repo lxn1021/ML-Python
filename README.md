@@ -141,3 +141,7 @@
 
 ## Module 3: Classification
 
+- Week 1 --- Linear Classifiers and Logistic Regression
+
+  [Slides]()
+
