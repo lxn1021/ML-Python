@@ -153,6 +153,8 @@
  - Week 2 --- Linear Classifiers and Logistic Regression
 
    [Slide 1](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/logistic-regression-learning-annotated.pdf)
+   
+   [Programming Assignment 1](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%202_Implement%20logistic%20regression.ipynb)
 
     [Data --- amazon_baby_subset.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby_subset.gl)
     
