@@ -159,3 +159,5 @@
     [Data --- amazon_baby_subset.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby_subset.gl)
     
     [Data --- important_words.json](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/important_words.json)
+    
+    [Slide 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/logistic-regression-overfitting-annotated.pdf)
