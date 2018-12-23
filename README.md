@@ -162,4 +162,4 @@
     
     [Slide 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/logistic-regression-overfitting-annotated.pdf)
     
-    [Programming Assignment 2]()
+    [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%202_Linear%20classifier%20regularization.ipynb)
