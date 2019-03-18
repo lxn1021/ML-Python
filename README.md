@@ -177,6 +177,6 @@ This repository contains the lecture slides and assginments of the Coursera onli
     
     [Programming Assignment 1](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%203_Decision%20tree_1.ipynb)
     
-    [Programming Assignment 2]()
+    [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%203_Decision%20trees_2.ipynb)
     
     [Data --- lending-club-data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/lending-club-data.gl)
