@@ -165,6 +165,10 @@ This repository contains the lecture slides and assginments of the Coursera onli
     [Slide 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/logistic-regression-overfitting-annotated.pdf)
     
     [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/Week%202_Linear%20classifier%20regularization.ipynb)
+    
+    [Data --- amazon_baby_subset.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby_subset.gl)
+    
+    [Data --- important_words.json](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/blob/master/important_words.json)
 
 
  - Week 3 --- Decision Trees
