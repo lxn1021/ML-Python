@@ -211,3 +211,8 @@ This repository contains the lecture slides and assginments of the Coursera onli
     [Programming Assignment](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%206_Precision%20and%20Recall.ipynb)
     
     [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
+
+
+- Week 7 --- Scaling to Huge datasets & Online Learning
+
+    [Slides](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/online-learning-annotated.pdf)
