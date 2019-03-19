@@ -184,4 +184,10 @@ This repository contains the lecture slides and assginments of the Coursera onli
 
 - Week 4 --- Preventing Overfitting in Decision Trees
   
-     [Slides]()
+     [Slide 1](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/decision-trees-overfitting-annotated.pdf)
+     
+     [Slide 2](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/decision-trees-missing-values-annotated.pdf)
+     
+     [Programming Assignment](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%206_Decision%20tree%20practical.ipynb)
+     
+     [Data --- lending-club-data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/lending-club-data.gl)
