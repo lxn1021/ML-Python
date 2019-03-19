@@ -202,3 +202,12 @@ This repository contains the lecture slides and assginments of the Coursera onli
     [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%205_boosting_2.ipynb)
     
     [Data --- lending-club-data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/lending-club-data.gl)
+
+
+- Week 6 --- Precision and Recall
+
+    [Slides](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/precision-recall.pdf)
+    
+    [Programming Assignment](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%206_Precision%20and%20Recall.ipynb)
+    
+    [Data --- amazon_baby.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/amazon_baby.gl)
