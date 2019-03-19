@@ -191,3 +191,14 @@ This repository contains the lecture slides and assginments of the Coursera onli
      [Programming Assignment](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%206_Decision%20tree%20practical.ipynb)
      
      [Data --- lending-club-data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/lending-club-data.gl)
+     
+
+- Week 5 --- Boosting
+
+    [Slides](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/boosting-annotated.pdf)
+    
+    [Programming Assignment 1](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%205_Boosting_1.ipynb)
+    
+    [Programming Assignment 2](https://github.com/lxn1021/Machine-Learning----U.W.-Seattle/blob/master/Week%205_boosting_2.ipynb)
+    
+    [Data --- lending-club-data.gl](https://github.com/lxn1021/Machine-Learning-Course-on-Coursera---U.W.-/tree/master/lending-club-data.gl)
